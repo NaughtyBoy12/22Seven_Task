@@ -1,2 +1,1 @@
-# 22Seven_Task
-22seven Assignment
+Public IP: 13.244.231.246
