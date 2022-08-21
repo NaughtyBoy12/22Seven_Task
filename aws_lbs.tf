@@ -1,5 +1,5 @@
 resource "aws_lb" "22SevenLBS" {
-  name               = "22SevenLBSf"
+  name               = "SevenLBS"
   internal           = false
   load_balancer_type = "application"
   security_groups    = [TaskMaster]
