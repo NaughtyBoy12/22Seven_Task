@@ -1,1 +1,1 @@
-Public IP : 13.244.231.246
+Ensure to run "aws configure" before executing the script
