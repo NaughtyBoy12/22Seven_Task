@@ -1,4 +1,4 @@
-resource "aws_lb" "22SevenLBS" {
+resource "aws_lb" "SevenLBS" {
   name               = "SevenLBS"
   internal           = false
   load_balancer_type = "application"
